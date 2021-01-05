@@ -1,0 +1,90 @@
+#dde0d8
+#de2224
+#2c6e2d
+#809d80
+#276427
+#ec8987
+#508251
+#90bc94
+****************************************
+Color dominante: #317132
+rojo:#de2326
+verde:#2c6e2d
+marron claro:#c6afa3
+verde claro:#7d9f7e
+rosa suave:#eb8281
+verde2:#286427
+verde claro2:#518251
+verde2:#3a8c40
+verde3:#64845c
+beige:#e1e3dc
+*******************************************
+verde:
+HEX : #2d692d
+RGB : 45, 105, 45
+HSL  : 120, 39%, 29%
+verde2:
+HEX : #2d8435
+RGB : 45, 132, 53
+HSL  : 125, 49%, 34%
+
+Rojo:
+HEX : #de1c24
+RGB : 222, 28, 36
+HSL  : 357, 77%, 49%
+rojo2:
+HEX : #e42c20
+RGB : 228, 44, 32
+HSL  : 3, 78%, 50%
+
+***************************
+
+$color1: #0b0b0b;
+$color2: #252525;
+$color3: #265726;
+$color4: #347b34;
+$color5: #42a042;
+
+$color1: #070f07;
+$color2: #173317;
+$color3: #265726;
+$color4: #347b34;
+$color5: #42a042;
+
+
+$color1: #0b0b0b;
+$color2: #252525;
+$color3: #265726;
+$color4: #347b34;
+$color5: #42a042;
+
+
+
+$color1: #070f07;
+$color2: #173317;
+$color3: #265726;
+$color4: #585858;
+$color5: #717171;
+
+
+$color1: #191919;
+$color2: #323232;
+$color3: #27712e;
+$color4: #33983c;
+$color5: #3fbf4a;
+
+
+
+$color1: #3d3d3d;
+$color2: #575757;
+$color3: #c71a21;
+$color4: #e52e36;
+$color5: #ec5b61;
+
+
+$color1: #6b0f13;
+$color2: #99151a;
+$color3: #c71a21;
+$color4: #8a8a8a;
+$color5: #a3a3a3;
+
