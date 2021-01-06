@@ -3,4 +3,4 @@
 Repositorio del projecto web, esta en periodo de prueba....
 
 ------------------------------------------------------
-[ver projecto] (https://alex-apt.github.io/basilicum)
+[ver projecto](https://alex-apt.github.io/basilicum)
