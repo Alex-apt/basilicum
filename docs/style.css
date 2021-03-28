@@ -193,15 +193,23 @@ html:not(.mobile-true) #bottom-bar img {
   background-position: center;
   background-attachment: var(--hero-attachment);
 }
+
 .hero-image-opacity {
   width: 100%;
   min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   text-align: center;
-  background-color: var(--hero-opacity-color);
+  background-color: var(--black-alpha-color);
 }
+
 .hero-image-title {
   font-size: 7.5vw;
   color: var(--hero-text-color);
