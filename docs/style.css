@@ -190,7 +190,8 @@ p {
 background-size: cover;*/
   
   
-  background-image: var(--hero-image)!important;
+  background-image: var(--hero-image);
+  -webkit-mask-image:var(--hero-image);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
