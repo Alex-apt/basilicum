@@ -189,6 +189,7 @@ html:not(.mobile-true) #bottom-bar img {
 .hero-image {
   background-image: var(--hero-image);
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
   background-attachment: var(--hero-attachment);
