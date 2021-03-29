@@ -189,7 +189,7 @@ p {
 -o-background-size: cover;
 background-size: cover;*/
   
-  
+  height: 100vh;
   background-image: var(--hero-image);
   -webkit-mask-image:var(--hero-image);
   background-repeat: no-repeat;
