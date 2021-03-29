@@ -200,7 +200,7 @@ html:not(.mobile-true) #bottom-bar img {
   -webkit-background-position: center;
   -webkit-background-attachment: var(--hero-attachment);
 }
-/*
+
 .hero-image-opacity {
   width: 100%;
   min-height: 100vh;
@@ -215,7 +215,7 @@ html:not(.mobile-true) #bottom-bar img {
   align-items: center;
   text-align: center;
   background-color: var(--black-alpha-color);
-}*/
+}
 
 .hero-image-title {
   font-size: 7.5vw;
