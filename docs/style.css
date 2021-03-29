@@ -193,9 +193,11 @@ background-size: cover;*/
   background-image: var(--hero-image);
   -webkit-mask-image:var(--hero-image);
   background-repeat: no-repeat;
+  -webkit-mask-repeat:no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: var(--hero-attachment);
+  -webkit-mask-attachment:var(--hero-attachment);
 }
 
 
