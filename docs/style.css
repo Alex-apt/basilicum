@@ -183,19 +183,19 @@ p {
 /***** Hero Image *****/
 
 .hero-image {
-  background: var(--hero-image) no-repeat center fixed;
+  /*background: var(--hero-image) no-repeat center fixed;
   -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
-background-size: cover;
-  /*
+background-size: cover;*/
+  
   width: 100%;
   height: 100vh;
-  background-image: var(--hero-image);
+  background-image: var(--hero-image)!important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-attachment: var(--hero-attachment);*/
+  background-attachment: var(--hero-attachment);
 }
 
 
