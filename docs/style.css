@@ -187,6 +187,8 @@ html:not(.mobile-true) #bottom-bar img {
 /***** Hero Image *****/
 
 .hero-image {
+  width: 100%;
+  height: 100vh;
   background-image: var(--hero-image);
   -webkit-background-image: var(--hero-image);
   background-repeat: no-repeat;
