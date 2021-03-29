@@ -193,14 +193,14 @@ html:not(.mobile-true) #bottom-bar img {
   -webkit-background-image: var(--hero-image);
   background-repeat: no-repeat;
   -webkit-background-repeat: no-repeat;
-  -webkit-background-size: auto 100%;
-  background-size: auto 100%;
+  -webkit-background-size: cover;
+  background-size: cover;
   background-position: center;
   background-attachment: var(--hero-attachment);
   -webkit-background-position: center;
   -webkit-background-attachment: var(--hero-attachment);
 }
-
+/*
 .hero-image-opacity {
   width: 100%;
   min-height: 100vh;
@@ -215,7 +215,7 @@ html:not(.mobile-true) #bottom-bar img {
   align-items: center;
   text-align: center;
   background-color: var(--black-alpha-color);
-}
+}*/
 
 .hero-image-title {
   font-size: 7.5vw;
